@@ -64,3 +64,13 @@ Pay per event, on the Apify Free plan: $1.00 per 1,000 pages, $5.00 per 1,000 PD
 ## Ready-made examples on Apify (no code)
 
 [PDF to Markdown for LLMs](https://apify.com/t800solutions/pdf-extractor/examples/pdf-to-markdown-for-llm) · [Tables to Excel and CSV](https://apify.com/t800solutions/pdf-extractor/examples/extract-tables-from-pdf-to-excel) · [Scanned PDF to text (OCR)](https://apify.com/t800solutions/pdf-extractor/examples/scanned-pdf-to-text-ocr) · [Extract images](https://apify.com/t800solutions/pdf-extractor/examples/extract-images-from-pdf) · [PDF pages to PNG](https://apify.com/t800solutions/pdf-extractor/examples/convert-pdf-pages-to-png-images) · [RAG chunks](https://apify.com/t800solutions/pdf-extractor/examples/pdf-to-rag-chunks) · [Multi-column PDFs](https://apify.com/t800solutions/pdf-extractor/examples/multi-column-pdf-to-text)
+
+<!-- outros-actors:inicio -->
+## 🧩 More Actors by T800 Solutions
+
+| Actor | What it does | Examples |
+|---|---|---|
+| [📍 Google Maps Scraper – Most Accurate Extractor](https://apify.com/t800solutions/google-maps-scraper) | Business names, phones, websites, addresses, ratings and reviews from Google Maps, across whole cities and only inside your area | [google-maps-scraper/](../google-maps-scraper/) |
+
+All our Actors: [apify.com/t800solutions](https://apify.com/t800solutions)
+<!-- outros-actors:fim -->

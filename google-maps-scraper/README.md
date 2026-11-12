@@ -63,3 +63,13 @@ Pay per event: $3.20 per 1,000 places on the Apify Free plan, less on paid plans
 ## Ready-made examples on Apify (no code)
 
 [Restaurants in New York City](https://apify.com/t800solutions/google-maps-scraper/examples/restaurants-in-new-york-city) · [Dentists in London](https://apify.com/t800solutions/google-maps-scraper/examples/dentists-in-london) · [Real estate agencies in Miami](https://apify.com/t800solutions/google-maps-scraper/examples/real-estate-agencies-in-miami) · [Plumbers in Los Angeles](https://apify.com/t800solutions/google-maps-scraper/examples/plumbers-in-los-angeles) · [Hotels in Paris](https://apify.com/t800solutions/google-maps-scraper/examples/hotels-in-paris) · [Coffee shops in São Paulo](https://apify.com/t800solutions/google-maps-scraper/examples/coffee-shops-in-sao-paulo) · [Businesses without a website](https://apify.com/t800solutions/google-maps-scraper/examples/businesses-without-website) · [Gyms in Texas](https://apify.com/t800solutions/google-maps-scraper/examples/gyms-in-texas)
+
+<!-- outros-actors:inicio -->
+## 🧩 More Actors by T800 Solutions
+
+| Actor | What it does | Examples |
+|---|---|---|
+| [📄 PDF Extractor All-in-One: Text, Tables & OCR](https://apify.com/t800solutions/pdf-extractor) | PDF to text, Markdown, tables, OCR for scanned PDFs in 20 languages, RAG chunks and images | [pdf-extractor/](../pdf-extractor/) |
+
+All our Actors: [apify.com/t800solutions](https://apify.com/t800solutions)
+<!-- outros-actors:fim -->

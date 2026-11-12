@@ -5,10 +5,12 @@
 
 Ready-to-run examples for the **T800 Solutions** Actors on the [Apify Store](https://apify.com/t800solutions): a **Google Maps scraper** for lead lists and local market data, and an all-in-one **PDF extractor** for text, Markdown, tables, OCR and RAG chunks. Each example calls the Actor through the official Apify API client, waits for the run and saves the results to a file you can open right away.
 
+<!-- actors:inicio -->
 | Actor | What it does | Examples |
 |---|---|---|
 | [📍 Google Maps Scraper – Most Accurate Extractor](https://apify.com/t800solutions/google-maps-scraper) | Business names, phones, websites, addresses, ratings and reviews from Google Maps, across whole cities and only inside your area | [google-maps-scraper/](google-maps-scraper/) |
 | [📄 PDF Extractor All-in-One: Text, Tables & OCR](https://apify.com/t800solutions/pdf-extractor) | PDF to text, Markdown, tables, OCR for scanned PDFs in 20 languages, RAG chunks and images | [pdf-extractor/](pdf-extractor/) |
+<!-- actors:fim -->
 
 ## 🚀 Quick start
 
