@@ -1,0 +1,9 @@
+{
+  "name": "google-maps-scraper-examples",
+  "private": true,
+  "type": "module",
+  "description": "Examples for the Google Maps Scraper on Apify (https://apify.com/t800solutions/google-maps-scraper)",
+  "dependencies": {
+    "apify-client": "^2.26.0"
+  }
+}
