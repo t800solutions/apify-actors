@@ -1,0 +1,9 @@
+{
+  "name": "youtube-scraper-examples",
+  "private": true,
+  "type": "module",
+  "description": "Examples for the YouTube Scraper All-in-One on Apify (https://apify.com/t800solutions/youtube-scraper)",
+  "dependencies": {
+    "apify-client": "^2.26.0"
+  }
+}

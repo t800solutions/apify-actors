@@ -70,6 +70,7 @@ Pay per event: $3.20 per 1,000 places on the Apify Free plan, less on paid plans
 | Actor | What it does | Examples |
 |---|---|---|
 | [📄 PDF Extractor All-in-One: Text, Tables & OCR](https://apify.com/t800solutions/pdf-extractor) | PDF to text, Markdown, tables, OCR for scanned PDFs in 20 languages, RAG chunks and images | [pdf-extractor/](../pdf-extractor/) |
+| [📹 YouTube Scraper All-in-One: Videos & Transcripts](https://apify.com/t800solutions/youtube-scraper) | Videos, Shorts, live streams, channels and playlists from YouTube, with comments and transcripts in one run | [youtube-scraper/](../youtube-scraper/) |
 
 All our Actors: [apify.com/t800solutions](https://apify.com/t800solutions)
 <!-- outros-actors:fim -->

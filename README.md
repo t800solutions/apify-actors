@@ -10,6 +10,7 @@ Ready-to-run examples for the **T800 Solutions** Actors on the [Apify Store](htt
 |---|---|---|
 | [📍 Google Maps Scraper – Most Accurate Extractor](https://apify.com/t800solutions/google-maps-scraper) | Business names, phones, websites, addresses, ratings and reviews from Google Maps, across whole cities and only inside your area | [google-maps-scraper/](google-maps-scraper/) |
 | [📄 PDF Extractor All-in-One: Text, Tables & OCR](https://apify.com/t800solutions/pdf-extractor) | PDF to text, Markdown, tables, OCR for scanned PDFs in 20 languages, RAG chunks and images | [pdf-extractor/](pdf-extractor/) |
+| [📹 YouTube Scraper All-in-One: Videos & Transcripts](https://apify.com/t800solutions/youtube-scraper) | Videos, Shorts, live streams, channels and playlists from YouTube, with comments and transcripts in one run | [youtube-scraper/](youtube-scraper/) |
 <!-- actors:fim -->
 
 ## 🚀 Quick start
