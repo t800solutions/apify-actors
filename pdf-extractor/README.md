@@ -72,6 +72,7 @@ Pay per event, on the Apify Free plan: $1.00 per 1,000 pages, $5.00 per 1,000 PD
 |---|---|---|
 | [📍 Google Maps Scraper – Most Accurate Extractor](https://apify.com/t800solutions/google-maps-scraper) | Business names, phones, websites, addresses, ratings and reviews from Google Maps, across whole cities and only inside your area | [google-maps-scraper/](../google-maps-scraper/) |
 | [📹 YouTube Scraper All-in-One: Videos & Transcripts](https://apify.com/t800solutions/youtube-scraper) | Videos, Shorts, live streams, channels and playlists from YouTube, with comments and transcripts in one run | [youtube-scraper/](../youtube-scraper/) |
+| [📸 Instagram Scraper All-in-One: Posts & Comments](https://apify.com/t800solutions/instagram-scraper) | Public Instagram profiles, posts, reels, hashtags and comments in one run, without login | [instagram-scraper/](../instagram-scraper/) |
 
 All our Actors: [apify.com/t800solutions](https://apify.com/t800solutions)
 <!-- outros-actors:fim -->

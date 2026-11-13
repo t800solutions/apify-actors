@@ -1,0 +1,9 @@
+{
+  "name": "instagram-scraper-examples",
+  "private": true,
+  "type": "module",
+  "description": "Examples for the Instagram Scraper All-in-One on Apify (https://apify.com/t800solutions/instagram-scraper)",
+  "dependencies": {
+    "apify-client": "^2.26.0"
+  }
+}
